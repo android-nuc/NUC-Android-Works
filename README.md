@@ -66,10 +66,12 @@ A collection of works of members.
 * [Search](https://github.com/shentibeitaokongle/Search)
 
   一个快速的搜索软件
+* [舒尔特表](https://github.com/armymenrts/SchulteGrid)
+
+  锻炼注意力的一个小游戏
 
 * [计算器](https://github.com/WuYanlili/Calculator)
 
 * [计算器](https://github.com/jinlu1106/Calculator2)
-
 
 * [血型计算和跳转百度](https://github.com/Zhusurong/app.xuexing)
