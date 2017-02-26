@@ -50,3 +50,16 @@ A collection of works of members.
 * [自定义照相机](https://github.com/ErisRolo/SimpleCamera)
 
   实现简单的对焦和拍照功能，并存储照片。
+
+* [画板](https://github.com/shencang/hua)
+
+  可以进行触摸记录笔记
+
+* [便签](https://github.com/shencang/notes-bata)
+
+   文字。图片（施工修改中）。视频（施工修改中）便签记录，目标集成上一个画板进去。利用一个SQL数据库来承载数据。
+
+* [计算器](https://github.com/WuYanlili/Calculator )
+
+
+* [血型计算和跳转百度](https://github.com/Zhusurong/app.xuexing)
