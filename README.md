@@ -63,6 +63,10 @@ A collection of works of members.
 
   能加入图片和视频的简单记事本
 
+* [Search](https://github.com/shentibeitaokongle/Search)
+
+  一个快速的搜索软件
+
 * [计算器](https://github.com/WuYanlili/Calculator )
 
 
