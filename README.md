@@ -59,6 +59,14 @@ A collection of works of members.
 
    文字。图片（施工修改中）。视频（施工修改中）便签记录，目标集成上一个画板进去。利用一个SQL数据库来承载数据。
 
+* [FreeNotes记事本](https://github.com/Guangxs/FreeNotes)
+
+  能加入图片和视频的简单记事本
+
+* [Search](https://github.com/shentibeitaokongle/Search)
+
+  一个快速的搜索软件
+
 * [计算器](https://github.com/WuYanlili/Calculator )
 
 
