@@ -42,3 +42,11 @@ A collection of works of members.
 * [图片浏览及其切换](https://github.com/Wennier/StudyNote)
 
   图片浏览及其切换的实现。
+
+* [快捷联系人](https://github.com/wangtianrui/ContantChose)
+
+  对联系人的存取删改、本机联系人的读取和快速拨号。
+
+* [自定义照相机](https://github.com/ErisRolo/SimpleCamera)
+
+  实现简单的对焦和拍照功能，并存储照片。
