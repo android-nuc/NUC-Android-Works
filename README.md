@@ -33,4 +33,12 @@ A collection of works of members.
 
 * [聊天机器人](https://github.com/dydymw/Tdme)
 
-  基于图灵机器人的智能聊天机器人
+  基于图灵机器人的智能聊天机器人。
+
+* [2048](https://github.com/Joki-memeda/My2048)
+
+  2048游戏。
+
+* [图片浏览及其切换](https://github.com/Wennier/StudyNote)
+
+  图片浏览及其切换的实现。
