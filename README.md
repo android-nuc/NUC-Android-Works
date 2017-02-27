@@ -70,9 +70,13 @@ A collection of works of members.
 
   锻炼注意力的一个小游戏
 
-* [计算器](https://github.com/WuYanlili/Calculator)
+* [计算器-1](https://github.com/WuYanlili/Calculator)
 
-* [计算器](https://github.com/jinlu1106/Calculator2)
+* [计算器-2](https://github.com/jinlu1106/Calculator2)
+
+* [计算器-3](https://github.com/galaxy921/calculatordemo)
+
+* [计算器-4](https://github.com/li619362860/MyApplication.git)
 
 * [血型计算和跳转百度](https://github.com/Zhusurong/app.xuexing)
 
