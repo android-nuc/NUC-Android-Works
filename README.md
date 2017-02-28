@@ -81,3 +81,5 @@ A collection of works of members.
 * [血型计算和跳转百度](https://github.com/Zhusurong/app.xuexing)
 
 * [闹钟](https://github.com/xuxiaoxiaoer/Alarm2)
+
+* [物理计算器](https://github.com/jyj8023/counter)
