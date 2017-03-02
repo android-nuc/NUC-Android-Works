@@ -13,6 +13,72 @@ A collection of works of members.
 
   “城市记忆” ———— 一款基于地图的社交交友平台。
 
+### 2016
+
+* [计算器](https://github.com/1407084212lmj/jisuanqi.git)
+
+* [基于opencv sample的人脸检测](https://github.com/cyhbrilliant/FaceDet)  
+
+  利用ndk与jdk混编 优化sample的一些native方法 并将.so文件封装在jinLibs中 优化多环境下运行  
+  opencv的编译配置  
+  实现不用opencv manager 的静态链接方式
+
+* [模仿imooc计算器编写](https://github.com/android-LPJ/androidTest.git)
+
+* [CriminalIntent](https://github.com/guozhengwei110/CriminalIntent)
+
+  关于办公室陋习的应用-----例子来自《android编程权威指南》
+
+* [科学计算器](https://github.com/MurphysL/Android/tree/master/calculator)
+
+* [音乐+视频播放器](https://github.com/fangcao1314/text)
+
+  用eclipse写的
+
+* [科学计算器](https://github.com/984941707/MyCalculator)
+
+  利用正则表达式拆分输入的算式,然后通过不断的运算和替换,最后得到算式的值
+
+* [LightDrawingBoard](https://github.com/kailiwu/LightDrawingBoard)
+
+  功能：1.自定义图形  
+  2.可以在屏幕上保存之前定义画好的自定义图形  
+  3.屏幕最上方实时显示当前屏幕周围的亮度  
+  4.可以根据当前屏幕周围的亮度来根据预设改变画笔以及路径的颜色  
+
+* [Calculator](https://github.com/z1908144712/Calculator)
+
+  这是一个计算器应用 是根据智能手机自带计算器的功能为模板 实现了多数字的加减乘除之间复杂的运算关系
+
+* [围住神经猫](https://github.com/BoyingWang/CatchCrazyCat.git)
+
+  一个游戏
+
+* [CarGo](https://github.com/VVVinegar/CarGo)
+
+  小车游戏
+
+* [手机安全卫士](https://github.com/fighter-huan/MobileSafe)
+
+  功能包括：手机防盗，通讯卫士，软件管理，进程管理，流量统计，手机杀毒，缓存清理，高级工具，设置中心。
+
+* [仿酷我音乐手机app](https://github.com/renxingkai/IMusic/tree/master)
+
+  模仿酷我音乐手机app的一个手机音乐播放器
+
+* [Remember](https://github.com/weeznn/Remember)
+
+  通过锁屏，提示，屏幕插件的方式对用户提前通过设置时间或地点的事件进行提醒
+
+* [CloudNotes](https://github.com/xibiandetaiyang/CloudNotes.git)
+
+  基于云端的随手笔记  
+  用户注册功能(支持qq等快捷登录)  
+  可以保存到本地，可随时上传和下载历史数据  
+  提供位置及街景服务，用于保存文档的基本信息(上传时间及地点）  
+  基于传感器快速启用  
+  界面操作简单，逐步完善系统  
+
 ### 2017
 
 * [程序员日志](https://github.com/qiaoyunrui/CoderLife) by Juhezi
