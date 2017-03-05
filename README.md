@@ -149,3 +149,5 @@ A collection of works of members.
 * [闹钟](https://github.com/xuxiaoxiaoer/Alarm2)
 
 * [物理计算器](https://github.com/jyj8023/counter)
+
+* [五子棋](https://github.com/Hero-hero-hero-hero/Wuziqi2)
