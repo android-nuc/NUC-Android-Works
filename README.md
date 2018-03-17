@@ -7,12 +7,13 @@ A collection of works of members.
 **历年记录**
 
  + [`2017`](#2017)
- + [`2016`](#2016)
- + [`before`](#before) 
+ + [`2016`](#2016) 
 
 ## 2017 
 
- [⬆回到顶部](#NUC-Android-Works)
+### 寒假作品
+
+ [⬆回到顶部](#top)
 
 * [程序员日志](https://github.com/qiaoyunrui/CoderLife) by Juhezi
 
@@ -87,7 +88,27 @@ A collection of works of members.
 
 ## 2016
 
- [⬆回到顶部](#NUC-Android-Works)
+### 比赛项目
+
+ [⬆回到顶部](#top)
+
+> 不完整
+
+* [畅途](https://github.com/InnoFang/ChangTu) by Inno Fang & DreamYHD
+
+  “畅途” ———— 是一款结合针对交通安全较差的地区、安全意识较低人群以及面向出门远行人生地不熟而开发的一款服务类应用软件。
+
+* [城市记忆](https://github.com/qiaoyunrui/CityMemory) by Juhezi
+
+  “城市记忆” ———— 一款基于地图的社交交友平台。
+  
+* [匿名课堂](https://github.com/Vikingweirdo/MyApp------)
+
+  “匿名课堂”是一款服务同学，便利老师的教学类应用软件。
+
+### 寒假作品
+
+ [⬆回到顶部](#top)
 
 * [计算器](https://github.com/1407084212lmj/jisuanqi.git)
 
@@ -152,20 +173,4 @@ A collection of works of members.
   提供位置及街景服务，用于保存文档的基本信息(上传时间及地点）  
   基于传感器快速启用  
   界面操作简单，逐步完善系统  
-
-
-## Before 
-
- [⬆回到顶部](#NUC-Android-Works)
-
-* [畅途](https://github.com/InnoFang/ChangTu) by Inno Fang & DreamYHD
-
-  “畅途” ———— 是一款结合针对交通安全较差的地区、安全意识较低人群以及面向出门远行人生地不熟而开发的一款服务类应用软件。
-
-* [城市记忆](https://github.com/qiaoyunrui/CityMemory) by Juhezi
-
-  “城市记忆” ———— 一款基于地图的社交交友平台。
-  
-* [匿名课堂](https://github.com/Vikingweirdo/MyApp------)
-
-  “匿名课堂”是一款服务同学，便利老师的教学类应用软件。
+ 
