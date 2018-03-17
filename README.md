@@ -1,14 +1,16 @@
-# [NUC-Android-Works](top)
+# NUC-Android-Works 
 
 Android 实验室成员作品集合
 
+A collection of works of members.
+
 **历年记录**
 
- + [2017](#2017)
- + [2016](#2016)
- + [更早](#before) 
+ + [`2017`](#2017)
+ + [`2016`](#2016)
+ + [`before`](#before) 
 
-## [2017](2017) &nbsp;&nbsp;&nbsp; [🚀](top)
+## 2017 &nbsp;&nbsp;&nbsp; [⬆ 回到顶部](#top)
 
 * [程序员日志](https://github.com/qiaoyunrui/CoderLife) by Juhezi
 
@@ -81,7 +83,7 @@ Android 实验室成员作品集合
 
 * [五子棋](https://github.com/Hero-hero-hero-hero/Wuziqi2)
 
-## [2016](2016) &nbsp;&nbsp;&nbsp; [🚀](top)
+## 2016 &nbsp;&nbsp;&nbsp; [⬆ 回到顶部](#top)
 
 * [计算器](https://github.com/1407084212lmj/jisuanqi.git)
 
@@ -148,7 +150,7 @@ Android 实验室成员作品集合
   界面操作简单，逐步完善系统  
 
 
-## [Before](before) &nbsp;&nbsp;&nbsp; [🚀](top)
+## Before  &nbsp;&nbsp;&nbsp; [⬆ 回到顶部](#top)
 
 * [畅途](https://github.com/InnoFang/ChangTu) by Inno Fang & DreamYHD
 
