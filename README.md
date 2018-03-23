@@ -5,17 +5,92 @@ Android 实验室成员作品集合
 A collection of works of members.
 
 **历年记录**
-
+ + [`2018`](#2018)
  + [`2017`](#2017)
- + [`2016`](#2016) 
+ + [`2016`](#2016)
+
+
+## 2018    
+
+### 寒假作品     
+
+ [⬆回到顶部](#top)
+
+* [EyeRead](https://github.com/shentibeitaokongle/EyeRead) by Barack Bao     
+
+  开眼视频第三方客户端     
+
+* [手写数字识别&画风迁移](https://github.com/wangtianrui/TFonAndroid) by ScorpioMiku    
+
+   Android平台tensorflow应用    
+
+* [CarRepair](https://github.com/kentanvictor/CarRepair) by JohnnyTan       
+
+   汽车维护平台App   
+
+* [RefreshNewClothes](https://github.com/wmpscc/RefreshNewClothes) by HeoLis    
+
+  电商App
+
+* [i_Studying](https://github.com/wangyufei1006/i_Studying)   
+
+  自习室查询系统 
+
+* [WIFISender](https://github.com/Talnex/WIFISender)   
+
+  安卓手机一对多传送文件的App   
+
+* [NewIM](https://github.com/ZhaoLizz/NewIM)       
+
+  失物招领平台     
+
+* [ImitateTaobaoApp](https://github.com/zxuu/ImitateTaobaoApp)  
+
+  仿淘宝客户端
+
+* [IM_pietianer](https://github.com/shencang/IM_pietianer)   
+
+  bmob即时通讯     
+
+* [QQChat](https://github.com/DreamMemory001/QQChat)   
+
+  简单模仿QQ
+
+* [MaterialTest](https://github.com/wanghao15536870732/MaterialTest)   
+
+  利用Material Support这个强大的库来实现卡片式布局、悬浮按钮和可交互性提示、滑动菜单和可折叠式标题栏，添加定位、登陆、电话、好友等功能   
+
+* [YiYuanApp](https://github.com/Crazydebug/YiYuanApp)      
+
+  实时定位当前在学校的位置，根据经纬度算出此时的位置距离要去教学楼的距离
+
+
+* [MEditor](https://github.com/xmmmmmovo/MEditor)   
+
+  Android端Markdown解决方案(未完成)     
+
 
 ## 2017 
 
 ### 比赛作品
 
+> 不完整
+
+ [⬆回到顶部](#top)
+
 * [FamilyBond](https://github.com/InnoFang/FamilyBond) by Inno Fang
 
-  An application, combine with Children side port and Parents side port, which let children take good care of their parents and parents can use smart phone to detect their heart rate.
+  An application, combine with Children side port and Parents side port, which let children take good care of their parents and parents can use smart phone to detect their heart rate.    
+
+* [CookBook-](https://github.com/wangtianrui/CookBook-) by ScorpioMiku   
+
+  使用深度学习实现拍照识图，进而生成对应菜谱。    
+
+* [NucYiXue](https://github.com/DreamYHD/NucYiXue) by DreamYHD    
+
+* [ScanShop](https://github.com/shentibeitaokongle/ScanShop) by Barack Bao    
+
+
 
 ### 寒假作品
 
