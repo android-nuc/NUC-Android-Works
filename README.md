@@ -51,15 +51,23 @@ A collection of works of members.
 * [MineSweeping](https://github.com/wcowboy/MineSweeping) by wcowboy
 
   HTML + CSS + JS ——>扫雷
+  
+ * [WeChat](https://github.com/Wprofessor/WeChat) by Wprofessor
+
+  模仿微信UI
 
 * [O-teacher](https://github.com/daAzai/O-teacher) by daAzai
 
   一个简单的课程表安排器（未完成）
 
+* [MaterialDesign](https://github.com/sallygardens/MaterialDesign) by sallygardens
+
+  这是一个类似于社区类图片分享的app，仿造国外android开发大佬写的instamaterial项目，主要是为了实现materialdesign的各种设计，该app插入了各种android属性动画来让界面变得更加流畅自然，提高用户使用APP的体验。
+
 * [CoolWeather](https://github.com/upperTime/coolweather) by upperTime
 
 
-中文名为酷欧天气，它是基于一款Android端开源的天气预报软件， 具备查看全国的省市县，查询任意城市天气，自由切换城市，手动更新天气，后台自动更新天气等功能。
+  中文名为酷欧天气，它是基于一款Android端开源的天气预报软件， 具备查看全国的省市县，查询任意城市天气，自由切换城市，手动更新天气，后台自动更新天气等功能。
 
 * [CoolWeather](https://github.com/KenMax233/coolWeathe) by KenMax233
   
