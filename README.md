@@ -5,10 +5,90 @@ Android 实验室成员作品集合
 A collection of works of members.
 
 **历年记录**
+ + [`2019`](#2019)
  + [`2018`](#2018)
  + [`2017`](#2017)
  + [`2016`](#2016)
 
+## 2019
+
+### 寒假作品
+
+ [⬆回到顶部](#top)
+
+* [RconManager](https://github.com/kenvix/RconManager) by kenvix
+
+  Minecraft Server Rcon Manage Tool for Android
+
+* [LanguageRepeater](https://github.com/wmpscc/LanguageRepeater) by wmpscc
+
+  口语评分（寒假练手项目）
+
+* [Bluetooth_Remote_Controller_For_Car](https://github.com/DreamMemory001/Bluetooth_Remote_Controller_For_Car) by DreamMemory001
+
+  This Rpository is Bluetooth_Remote_Controller_For_Car。 It uses Bluetooth to communicate with your phone
+
+* [FlutterDemo](https://github.com/wanghao15536870732/Flutter-Demo) by wanghao15536870732
+
+  Flutter 酷欧天气 + 单词翻译 + 简单计算器
+
+* [MEditor](https://github.com/xmmmmmovo/MEditor) by xmmmmmovo
+
+  Android端Markdown解决方案
+  
+* [Astro_Weather](https://github.com/1219521375/Astro_Weather) by 1219521375
+
+  晴天钟 flutter实现 添加了APOD功能
+
+* [Other-Important](https://github.com/Julyyt-y/Other-Important) by Julyyt-y
+
+  日历 + 图片处理
+
+* [emmmm](https://github.com/Bobbyyky/emmmm) by Bobbyyky
+
+  记事本
+
+* [MineSweeping](https://github.com/wcowboy/MineSweeping) by wcowboy
+
+  HTML + CSS + JS ——>扫雷
+
+* [O-teacher](https://github.com/daAzai/O-teacher) by daAzai
+
+  一个简单的课程表安排器（未完成）
+
+* [CoolWeather](https://github.com/upperTime/coolweather) by upperTime
+
+
+中文名为酷欧天气，它是基于一款Android端开源的天气预报软件， 具备查看全国的省市县，查询任意城市天气，自由切换城市，手动更新天气，后台自动更新天气等功能。
+
+* [CoolWeather](https://github.com/KenMax233/coolWeathe) by KenMax233
+  
+  练习第一行代码第十四章的程序
+
+* [CoolWeather](https://github.com/co-ai/CoolWeather) by co-ai
+  
+  实现了查询全国各地的天气，包括当前气温、AQI指数、PM2.5、未来三天天气预报信息，后台自动更新天气信息.
+
+* [游游天气](https://github.com/Ataraxiazjy/coolweather) by Ataraxiazjy
+
+  这是一款预测天气的小app,它可以实时提供天气预报以及空气质量并且给出生活建议，包括舒适度，洗车指数以及出行建议。加载每日必应一图，界面简洁明了，清新实用！
+
+* [CoolWeather](https://github.com/kklll/CoolWeather) by kklll
+
+  一款查看天气的APP，设计APP来进行天气预报的显示，天气预报的信息来源于和风天气。通过请求和风天气的API来得到天气数据，此APP主要是将得到的数据展示出来。
+
+* [CoolWeather](https://github.com/zhongshiyi/coolweather) by zhongshiyi
+* [CoolWeather](https://github.com/punk1/coolweathear/tree/master) by punk1
+* [CoolWeather](https://github.com/chuyhu/coolweather) by chuyhu
+* [CoolWeather](https://github.com/todaykid/coolweather) by todaykid
+* [CoolWeather](https://github.com/daAzai/coolweather) by daAzai
+* [CoolWeather](https://github.com/LLLLLL123/CoolWeather) by LLLLLL123
+* [CoolWeather](https://github.com/wkrkk/coolweather) by wkrkk
+* [CoolWeather](https://github.com/xiaozhen-go/CoolWeather) by xiaozhen-go
+* [CoolWeather](https://github.com/TheEpiphyllumofDream/weather) by TheEpiphyllumofDream
+* [CoolWeather](https://github.com/fightingwjl/coolweather) by fightingwjl
+
+  酷欧天气
 
 ## 2018    
 
@@ -63,12 +143,6 @@ A collection of works of members.
 * [YiYuanApp](https://github.com/Crazydebug/YiYuanApp)      
 
   实时定位当前在学校的位置，根据经纬度算出此时的位置距离要去教学楼的距离
-
-
-* [MEditor](https://github.com/xmmmmmovo/MEditor)   
-
-  Android端Markdown解决方案   
-
 
 ## 2017 
 
