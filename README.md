@@ -53,9 +53,9 @@ A collection of works of members.
   HTML + CSS + JS ——>扫雷
   
  * [WeChat](https://github.com/Wprofessor/WeChat) by Wprofessor
-
-  模仿微信UI
-
+  
+    模仿微信UI
+  
 * [O-teacher](https://github.com/daAzai/O-teacher) by daAzai
 
   一个简单的课程表安排器（未完成）
