@@ -64,6 +64,10 @@ A collection of works of members.
 
   这是一个类似于社区类图片分享的app，仿造国外android开发大佬写的instamaterial项目，主要是为了实现materialdesign的各种设计，该app插入了各种android属性动画来让界面变得更加流畅自然，提高用户使用APP的体验。
   
+* [LockPhone1](https://github.com/dtxdtx/LockPhone1) by dtxdtx
+
+  手机锁
+  
 * [WeatherNews](https://github.com/artimisgood/weather-news) by artimisgood
 
   This is my first app for my first university class.
