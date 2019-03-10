@@ -67,7 +67,7 @@ A collection of works of members.
 
 * [MEditor](https://github.com/xmmmmmovo/MEditor)   
 
-  Android端Markdown解决方案(未完成)     
+  Android端Markdown解决方案   
 
 
 ## 2017 
