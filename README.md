@@ -60,6 +60,10 @@ A collection of works of members.
 
   一个简单的课程表安排器（未完成）
 
+* [Android2048](https://github.com/mythologicalwarrior/Android2048) by mythologicalwarrior
+
+  一个简单的手机2048小游戏
+
 * [MaterialDesign](https://github.com/sallygardens/MaterialDesign) by sallygardens
 
   这是一个类似于社区类图片分享的app，仿造国外android开发大佬写的instamaterial项目，主要是为了实现materialdesign的各种设计，该app插入了各种android属性动画来让界面变得更加流畅自然，提高用户使用APP的体验。
@@ -103,6 +107,7 @@ A collection of works of members.
 * [CoolWeather](https://github.com/xiaozhen-go/CoolWeather) by xiaozhen-go
 * [CoolWeather](https://github.com/TheEpiphyllumofDream/weather) by TheEpiphyllumofDream
 * [CoolWeather](https://github.com/fightingwjl/coolweather) by fightingwjl
+* [CoolWeather](https://github.com/whitelcr/CoolWeather) by whitelcr
 
   酷欧天气
 
