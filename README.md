@@ -5,10 +5,69 @@ Android 实验室成员作品集合
 A collection of works of members.
 
 **历年记录**
+ + [`2020`](#2020)
  + [`2019`](#2019)
  + [`2018`](#2018)
  + [`2017`](#2017)
  + [`2016`](#2016)
+
+## 2020
+
+### 寒假作品
+
+ [⬆回到顶部](#top)
+
+ * [WisdomTravel](https://github.com/DragonLi-creator/WisdomTravel) by DragonLi-creator
+   
+   WisdomTravel（景智行）
+   
+   这是一款基于高德地图开发的旅游APP，它实现了市面上导航，出游APP中的一些基础功能。（还有很多未能完善）
+
+ * [LK](https://github.com/wstzj/LK) by wstzj
+
+   LightNovel （轻小说）
+   
+   本软件是基于 轻之国度论坛 的轻小说阅读软件。 
+ * [run](https://github.com/farewell12345/run) by farewell12345
+   
+   "绘跑"APP
+
+   "绘跑"是一款针对爱好户外跑步的人群设计的用于增加户外跑步趣味性的运动类APP。
+ * [Winter-Practing](https://github.com/wlianger/Winter-Practing) by wlianger
+
+   FlowerWorld
+   
+   这个项目的主要功能是展示花朵的图片，了解一些花语，以及一些花朵的神话传说，以及一些花的文化。
+ * [Yichuguanjia2](https://github.com/GZAY/Yichuguanjia2) by GZAY
+   
+   衣橱管家
+ * [cy0215](https://github.com/cy0215/weather) by cy0215
+   
+   酷欧天气
+ * [Winter-vacation-examination](https://github.com/fight-ing-dev/Winter-vacation-examination) by fight-ing-dev
+   
+   这个项目只是简单的的实现了记事本的功能，包含记录文字，拍摄照片，拍摄视频，分为三个列表。 记录的时间有录取时间的功能，这样查找事件根据时间会比较方便。 具体的解释在代码里面有注释。
+   
+ * [myAPP](https://github.com/w127/myAPP) by  w127（王润泽）
+ * [Android-](https://github.com/Sham1225/Android-) by Sham1225
+   
+   寒假听课记录
+ * [AndroidLearn](https://github.com/AimerNeige/AndroidLearn/) by AimerNeige
+   
+   假期学习相关项目
+ * [BluetoothClipboardSync](https://github.com/kenvix/BluetoothClipboardSync) by kenvix
+ * [Android-](https://github.com/15822422666/Android-) by 15822422666
+
+   对Android功能的基本使用
+ * [my](https://github.com/Jerry-bear/my) by Jerry-bear
+ * [homework](https://github.com/wswyx/homework) by wswyx
+ * [Android2](https://github.com/bufanx/Android2) by bufanx
+ * [Music](https://github.com/Karinaser/Music) by Karinaser
+
+   music播放器
+ * [shotMarkerAPP](https://github.com/holk-h/shotMarkerAPP) by holk-h
+
+   拍照判题为主，多种功能的学习辅助APP
 
 ## 2019
 
